@@ -51,8 +51,6 @@ class _CalculatorPageState extends State<CalculatorPage> {
 
                 // Row 6
                 buildButton('=', calculate),
-                buildButton('=', calculate),
-                buildButton('=', calculate),
               ],
             ),
           ),
