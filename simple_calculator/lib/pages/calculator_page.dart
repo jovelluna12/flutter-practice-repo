@@ -9,8 +9,8 @@ class CalculatorPage extends StatefulWidget {
 
 class _CalculatorPageState extends State<CalculatorPage> {
   String _num1 = '';
-  String _num2 = '0';
-  String _result = '0';
+  String _num2 = '';
+  String _result = '';
   String displayNumber = '';
   String _operation = '';
 
