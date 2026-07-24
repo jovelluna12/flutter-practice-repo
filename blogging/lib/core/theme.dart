@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
+import 'utils.dart';
 
 class ThemeOptions {
-  static const Color primaryColor = Colors.amber;
+  static Color primaryColor = hexToColor('#ffffff');
   static const Color secondaryColor = Colors.blueGrey;
 
   static const Color textColor = Colors.black54;
